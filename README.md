@@ -15,10 +15,10 @@ The **Philosophers** project at 42 involves simulating a scenario where philosop
 
 - **A philosopher dies**:
   
-  ![image](https://github.com/user-attachments/assets/a9a82753-0850-4314-962e-4a3cef878eb2)
-  
+![image](https://github.com/user-attachments/assets/ae532d2e-e224-4ffd-8606-109f5a071304)
+
 - **No one dies because they can each eat 2 times**:
 
-  ![image](https://github.com/user-attachments/assets/b8cf4618-baa2-4ab3-9188-1673245fb9d1)
+![image](https://github.com/user-attachments/assets/b13c604b-b3b1-4811-9e73-66142039cf9e)
 
 
